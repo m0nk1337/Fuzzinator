@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>🧠 Orange Health — Internal Smart Search</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="container">
+    <h1>🧠 Orange Health — Internal Smart Search</h1>
+
+    <div class="controls">
+      <input id="input" placeholder="e.g. cbc, fbs in Mumbai" />
+      <button id="send">Search</button>
+      <button id="copyBtn" title="Copy agent text">Copy</button>
+      <button id="debugToggle" title="Toggle debug">Debug</button>
+    </div>
+
+    <div id="chat" class="chat">Type a query and press Search (or Enter)</div>
+    <pre id="debug" class="debug" style="display:none"></pre>
+  </main>
+
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
