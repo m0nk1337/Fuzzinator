@@ -7,10 +7,18 @@
 </head>
 <body>
   <main class="container">
-    <h1>🧠 Fuzzinator — Internal Smart Search</h1>
+    <h1>🧠 Orange Health — Internal Smart Search</h1>
+
 
     <div class="controls">
-      <input id="input" placeholder="e.g. cbc, fbs in Mumbai" />
+      <select id="city" style="padding:10px 12px;border-radius:8px;border:1px solid #ddd;font-size:14px">
+        <option value="MUM">Mumbai</option>
+        <option value="DEL">Delhi NCR</option>
+        <option value="BLR">Bangalore</option>
+        <option value="NOA">Noida</option>
+        <option value="HYD">Hyderabad</option>
+      </select>
+      <input id="input" placeholder="e.g. cbc, fbs" />
       <button id="send">Search</button>
       <button id="copyBtn" title="Copy agent text">Copy</button>
       <button id="debugToggle" title="Toggle debug">Debug</button>
@@ -23,4 +31,3 @@
   <script type="module" src="./app.js"></script>
 </body>
 </html>
-
