@@ -16,7 +16,7 @@ export const KEYWORD_MAP = {
         aliases: [
           "gut health test", "microbiome test", "gut test", "microbiome product", "gut microbiome info", "gut microbiome about", "gut microbiome details"
         ],
-        content: `About the Test\n\nA Gut Microbiome test examines the tiny organisms living in the digestive system by studying their DNA from a stool sample. It checks for different types of bacteria, their variety and if they are balanced.\nThe test works by reading specific parts of microbial DNA to identify bacteria and other microbes like yeast or by analysing all genetic material in the sample to detect a wider range of microbes, including viruses and fungi.\nAn imbalance in gut bacteria, called dysbiosis, happens when there are too few good bacteria, too many harmful ones, or not enough variety. This can weaken digestion and immune defences, making the body more vulnerable to infections and diseases. Dysbiosis is linked to conditions like diarrhoea, colitis, and inflammatory bowel disease. It may also be connected to irritable bowel syndrome, obesity, diabetes, liver disease, rheumatoid arthritis, and even mental health problems like anxiety and depression.\nBy studying gut microbes, Gut Microbiota testing helps find imbalances and understand health risks. Knowing what bacteria are present can help to decide on treatment plans, improve digestion, and support overall well-being. A healthy gut microbiome plays an important role in breaking down food, producing vitamins, and keeping harmful bacteria under control. A balanced microbiome is essential for good health, and a Gut Health test at home can help check if it is working properly.\n\nList of Parameters\nGut Microbiota testing examines the tiny organisms living in the digestive system. It helps understand gut health by measuring different factors. The test includes a Gut Microbiome Index, which shows how diverse the gut bacteria are, and a Disease Risk Index, which checks if certain bacteria may be linked to health issues. It also looks at Antibiotic Susceptibility to see if any bacteria are resistant to antibiotics. Pathogen Characterisation helps detect harmful microbes, while Nutritional, Probiotic, and Prebiotic Recommendations suggest diet changes to improve gut health.\nThe gut may contain over 1,000 species of microorganisms. Along with bacteria, other tiny organisms like viruses and yeasts also live there. Gut bacteria perform essential roles, such as aiding digestion, producing nutrients, and controlling inflammation. They function like the immune system, supporting health but sometimes contributing to disease. Stool analysis helps identify the types and functions of these microbes.\nThe gut’s main bacterial groups, Bacteroidetes and Firmicutes, vary widely among individuals. Some have 90% Bacteroidetes, while others have 90% Firmicutes. There is no single “healthy” microbiome, but imbalances may indicate a need for improvement.\nThe Microbiome test measures Relative Abundance, which shows the proportion of each bacterial type, and Absolute Abundance, which tells how many bacteria are present. It also looks at Evenness (the balance between species) and Richness (the total number of species).\n\nTest Preparation\nNo special preparations, such as fasting, are needed. Collect 2-3 scoops of the sample from the first morning pass when possible. Avoid contamination from water, urine, blood, or other substances. Wait for 5 days post-antibiotic courses before sample collection, unless a physician asks to collect during the antibiotic course. Individuals are advised not to collect the sample during their menstrual cycles.\n\nWhy this test\nRecommended for people with digestive problems, gut infections, long-term health issues, heart and weight issues, allergies, asthma, tiredness, mood changes, anxiety, or nerve-related problems.\n\nDisclaimer: This is not a diagnostic report and should be used for Research Use Only (RUO) or Investigational Use Only (IUO) and should be interpreted or used exclusively by or under the guidance of a practitioner.\n\nNote: This test is available only for individuals above the age of 6 years. Any exceptions require a doctor's prescription or a nutritionist's recommendation.\n\nStool Collection Instructions\nUse the provided collection frame and tube with the DNA stabilizer liquid. Seal the sample in the provided return envelope and store it in a cool, dry place until pickup. The sample once collected remains stable for up to a month in the DNA stabilizing solution at room temperature.\n\nWhat is a Gut Microbiome Test?\nThe Gut Microbiome Test analyzes the trillions of bacteria, fungi, and viruses in your digestive system to reveal how they affect your digestion, immunity, metabolism, and mental health. With advanced metagenomic sequencing, it provides a detailed gut profile, detects imbalances, and offers personalized diet, supplement, and lifestyle advice, all guided by expert counseling.\n\n5 Reasons to Take a Gut Microbiome Test\n- Find the exact probiotics your gut needs\n- Identify harmful bacteria and gut imbalances\n- Understand how well your gut digests and absorbs food\n- Uncover early signs of gut-linked conditions\n- Get a personalized food and supplement plan\n\nWho Is This Test For?\n- People with ongoing gut issues (bloating, acidity, IBS or IBD)\n- Those managing long-term health conditions (PCOS, diabetes, thyroid issues, anxiety, or autoimmune symptoms)\n- Anyone struggling with weight loss\n- Health-conscious individuals looking for personalized nutrition & wellness insights\n\nFeature / Benefit Comparison\n- Metagenomic sequencing (DNA-level)\n- Analyzes bacteria, viruses, fungi\n- Species-level identification\n- Disease risk insights (20+ conditions)\n- Personalized food plan\n- Probiotic & prebiotic recommendations\n- Expert counseling\n- Visual, detailed, and easy to follow report\n- NABL & ISO certified labs\n- Free home pickup\n- Price: ₹9,999 – all-inclusive\n\nWhy Choose Orange Health Gut Microbiome Test?\n- India’s First & Most Advanced Test\n- Precision with Metagenomic Sequencing\n- Personalized Diet & Probiotics\n- Doctor-Trusted & Accredited\n- Covers 20+ Disease Risk Predictions\n- Easy 3-step process: collect at home, free pickup, get report online\n- Includes expert guidance from nutritionists\n\nFAQs\n- Not a diagnostic test; provides gut health insights and recommendations\n- Includes microbiota analysis, disease risk assessment, and custom diet/probiotic plans\n- Reports delivered in 2–4 weeks\n- Sample: stool, collected at home\n- Wait 1 week after antibiotics before collecting sample`
+        content: `About the Test\n\nA Gut Microbiome test examines the tiny organisms living in the digestive system by studying their DNA from a stool sample. It checks for different types of bacteria, their variety and if they are balanced.\nThe test works by reading specific parts of microbial DNA to identify bacteria and other microbes like yeast or by analysing all genetic material in the sample to detect a wider range of microbes, including viruses and fungi.\nAn imbalance in gut bacteria, called dysbiosis, happens when there are too few good bacteria, too many harmful ones, or not enough variety. This can weaken digestion and immune defences, making the body more vulnerable to infections and diseases. Dysbiosis is linked to conditions like diarrhoea, colitis, and inflammatory bowel disease. It may also be connected to irritable bowel syndrome, obesity, diabetes, liver disease, rheumatoid arthritis, and even mental health problems like anxiety and depression.\nBy studying gut microbes, Gut Microbiota testing helps find imbalances and understand health risks. Knowing what bacteria are present can help to decide on treatment plans, improve digestion, and support overall well-being. A healthy gut microbiome plays an important role in breaking down food, producing vitamins, and keeping harmful bacteria under control. A balanced microbiome is essential for good health, and a Gut Health test at home can help check if it is working properly.\n\nList of Parameters\nGut Microbiota testing examines the tiny organisms living in the digestive system. It helps understand gut health by measuring different factors. The test includes a Gut Microbiome Index, which shows how diverse the gut bacteria are, and a Disease Risk Index, which checks if certain bacteria may be linked to health issues. It also looks at Antibiotic Susceptibility to see if any bacteria are resistant to antibiotics. Pathogen Characterisation helps detect harmful microbes, while Nutritional, Probiotic, and Prebiotic Recommendations suggest diet changes to improve gut health.\nThe gut may contain over 1,000 species of microorganisms. Along with bacteria, other tiny organisms like viruses and yeasts also live there. Gut bacteria perform essential roles, such as aiding digestion, producing nutrients, and controlling inflammation. They function like the immune system, supporting health but sometimes contributing to disease. Stool analysis helps identify the types and functions of these microbes.\nThe gut’s main bacterial groups, Bacteroidetes and Firmicutes, vary widely among individuals. Some have 90% Bacteroidetes, while others have 90% Firmicutes. There is no single “healthy” microbiome, but imbalances may indicate a need for improvement.\nThe Microbiome test measures Relative Abundance, which shows the proportion of each bacterial type, and Absolute Abundance, which tells how many bacteria are present. It also looks at Evenness (the balance between species) and Richness (the total number of species).\n\nTest Preparation\nNo special preparations, such as fasting, are needed. Collect 2-3 scoops of the sample from the first morning pass when possible. Avoid contamination from water, urine, blood, or other substances. Wait for 5 days post-antibiotic courses before sample collection, unless a physician asks to collect during the antibiotic course. Individuals are advised not to collect the sample during their menstrual cycles.\n\nWhy this test\nRecommended for people with digestive problems, gut infections, long-term health issues, heart and weight issues, allergies, asthma, tiredness, mood changes, anxiety, or nerve-related problems.\n\nDisclaimer: This is not a diagnostic report and should be used for Research Use Only (RUO) or Investigational Use Only (IUO) and should be interpreted or used exclusively by or under the guidance of a practitioner.\n\nNote: This test is available only for individuals above the age of 6 years. Any exceptions require a doctor's prescription or a nutritionist's recommendation.\n\nStool Collection Instructions\nUse the provided collection frame and tube with the DNA stabilizer liquid. Seal the sample in the provided return envelope and store it in a cool, dry place until pickup. The sample once collected remains stable for up to a month in the DNA stabilizing solution at room temperature.\n\nWhat is a Gut Microbiome Test?\nThe Gut Microbiome Test analyzes the trillions of bacteria, fungi, and viruses in your digestive system to reveal how they affect your digestion, immunity, metabolism, and mental health. With advanced metagenomic sequencing, it provides a detailed gut profile, detects imbalances, and offers personalized diet, supplement, and lifestyle advice, all guided by expert counseling.\n\n5 Reasons to Take a Gut Microbiome Test\n- Find the exact probiotics your gut needs\n- Identify harmful bacteria and gut imbalances\n- Understand how well your gut digests and absorbs food\n- Uncover early signs of gut-linked conditions\n- Get a personalized food and supplement plan\n\nWho Is This Test For?\n- People with ongoing gut issues (bloating, acidity, IBS or IBD)\n- Those managing long-term health conditions (PCOS, diabetes, thyroid issues, anxiety, or autoimmune symptoms)\n- Anyone struggling with weight loss\n- Health-conscious individuals looking for personalized nutrition & wellness insights\n\nFeature / Benefit Comparison\n- Metagenomic sequencing (DNA-level)\n- Analyzes bacteria, viruses, fungi\n- Species-level identification\n- Disease risk insights (20+ conditions)\n- Personalized food plan\n- Probiotic & prebiotic recommendations\n- Expert counseling\n- Visual, detailed, and easy to follow report\n- NABL & ISO certified labs\n- Free home pickup\n- Price: ₹9,999 – all-inclusive\n\nWhy Choose Orange Health Gut Microbiome Test?\n- India’s First & Most Advanced Test\n- Precision with Metagenomic Sequencing\n- Personalized Diet & Probiotics\n- Doctor-Trusted & Accredited\n- Covers 20+ Disease Risk Predictions\n- Easy 3-step process: collect at home, free pickup, get report online\n- Includes expert guidance from nutritionists\n\nprocesss\n- Not a diagnostic test; provides gut health insights and recommendations\n- Includes microbiota analysis, disease risk assessment, and custom diet/probiotic plans\n- Reports delivered in 2–4 weeks\n- Sample: stool, collected at home\n- Wait 1 week after antibiotics before collecting sample`
       },
     // SOP for Gut Microbiome Test
     "gut microbiome sop": {
@@ -319,7 +319,7 @@ export const KEYWORD_MAP = {
     }
   },
 
-  // Customer Service / FAQ mappings (flexible aliases)
+  // Customer Service / process mappings (flexible aliases)
   "same patient different address": {
     type: "process",
     aliases: ["same patient two addresses", "same patient different address for two tests", "two address same patient"],
@@ -331,32 +331,32 @@ export const KEYWORD_MAP = {
     content: "Transfer chats when the customer escalates about an existing order (e.g., 'my reports are not correct', 'I want to complain') or has concerns about an active order (e.g., 'When will I get my report', 'eMedic is late')."
   },
   "international number booking": {
-    type: "faq",
+    type: "process",
     aliases: ["international number", "can i book international number", "book for international number"],
     content: "No. Ask for an Indian phone number because eMedic will call the patient and details will be shared via WhatsApp."
   },
   "ecg slots family booking": {
-    type: "faq",
+    type: "process",
     aliases: ["ecg slots family", "ecg same family multiple patients", "ecg 3 patients same family"],
     content: "Book 3 slots (one per patient) and fill forms for each patient separately."
   },
   "coagulation profile includes": {
-    type: "faq",
+    type: "process",
     aliases: ["what does coagulation profile include", "coagulation profile includes what"],
     content: "PT/INR, aPTT, Platelet Count (suggest CBC), Fibrinogen, D-Dimer."
   },
   "clotting assay availability": {
-    type: "faq",
+    type: "process",
     aliases: ["do you have clotting assay", "protein s protein c clotting assay"],
     content: "Yes — we offer Protein S and Protein C clotting assays."
   },
   "clotting factors tests": {
-    type: "faq",
+    type: "process",
     aliases: ["clotting factors", "do you have clotting factors tests"],
     content: "Yes — we have Factor V and Factor VIII tests and other specific factor assays."
   },
   "ecg slot availability": {
-    type: "faq",
+    type: "process",
     aliases: ["ecg slot available", "ecg slot timing"],
     content: "ECG slots available only till 1:30 PM and only at BLR and MUM locations."
   },
@@ -366,12 +366,12 @@ export const KEYWORD_MAP = {
     content: "Yes. eMedic will carry a physical consent form that the patient must sign and a government ID must be shown before sample collection."
   },
   "is rft kft same": {
-    type: "faq",
+    type: "process",
     aliases: ["is rft and kft same", "rft vs kft"],
     content: "Yes, RFT and KFT are the same (Kidney Function Test)."
   },
   "kft electrolytes list": {
-    type: "faq",
+    type: "process",
     aliases: ["electrolytes in kft", "which electrolytes in kft"],
     content: "Electrolytes included: Phosphate/Phosphorus, Calcium, Sodium, Potassium, Chloride."
   },
@@ -381,12 +381,12 @@ export const KEYWORD_MAP = {
     content: "Confirm slot on ECG tracker → Update Google Form → Force-assign confirmed slot in OMS. ECG eligibility: only for individuals aged 14 years and above."
   },
   "serology test booking": {
-    type: "faq",
+    type: "process",
     aliases: ["serology test", "serology booking", "book serology"],
     content: "Book the STD Essential Package; serology includes HBsAg, VDRL Qualitative, Hepatitis C, HIV 1 & 2."
   },
   "tsh vs tsh ultrasensitive": {
-    type: "faq",
+    type: "process",
     aliases: ["is tsh and tsh ultrasensitive same", "tsh ultrasensitive"],
     content: "No. We perform only standard TSH; TSH Ultrasensitive is different and not performed at OHL currently."
   },
@@ -406,102 +406,102 @@ export const KEYWORD_MAP = {
     content: "Yes, address can be changed if only ONE slot is booked and no sample has been collected. For multiple slots cancel & rebook if no collection. If sample collected, use 'Reassign Task' workflow where applicable."
   },
   "is ferritin included in iron profile": {
-    type: "faq",
+    type: "process",
     aliases: ["is ferritin included in iron profile", "ferritin in iron profile"],
     content: "No — Ferritin is a separate test and must be added explicitly."
   },
   "do you have bun": {
-    type: "faq",
+    type: "process",
     aliases: ["do you have bun", "blood urea nitrogen available"],
     content: "Yes — BUN (Blood Urea Nitrogen) is part of KFT."
   },
   "cbp includes what": {
-    type: "faq",
+    type: "process",
     aliases: ["cbp includes what", "what is cbp"],
     content: "CBP includes CBC + ESR + Peripheral Smear."
   },
   "pcr vs rapid testing": {
-    type: "faq",
+    type: "process",
     aliases: ["difference between pcr and rapid", "pcr vs rapid"],
     content: "Rapid: antigen-based, quick, shows presence/absence. PCR: nucleic acid amplification, more sensitive, detects low viral loads."
   },
   "specific hiv p24 antigen": {
-    type: "faq",
+    type: "process",
     aliases: ["hiv p24 antigen specific", "hiv p24"],
     content: "Use the HIV DUO test — P24 antigen is covered but not reported separately."
   },
   "tpha titer request": {
-    type: "faq",
+    type: "process",
     aliases: ["tpha titer values", "tpha titers"],
     content: "TPHA at Orange Health is a QUALITATIVE test; titer values are not provided."
   },
   "hb electrophoresis purpose": {
-    type: "faq",
+    type: "process",
     aliases: ["abnormal hb studies", "hb electrophoresis purpose"],
     content: "HB Electrophoresis is used to diagnose Thalassemia and Sickle Cell Anemia."
   },
   "haemoglobin cyanmethemoglobin method": {
-    type: "faq",
+    type: "process",
     aliases: ["haemoglobin cyanmethemoglobin", "hb cyanmethemoglobin method"],
     content: "No. We use Cyanide-free SLS method for Hemoglobin at our labs. Mention the method if customer asks."
   },
   "cancellation charge prepaid": {
-    type: "faq",
+    type: "process",
     aliases: ["cancellation charge prepaid", "is cancellation charge for prepaid orders"],
     content: "No — there is no cancellation charge for prepaid orders."
   },
   "tlc vs twbc same": {
-    type: "faq",
+    type: "process",
     aliases: ["total leukocyte count same as twbc", "tc vs twbc"],
     content: "Yes — Total Leukocyte Count (TLC) and Total WBC Count (TC) are the same; WBC is also called Leukocyte."
   },
   "monomeric prolactin availability": {
-    type: "faq",
+    type: "process",
     aliases: ["monomeric prolactin test", "do you perform monomeric prolactin"],
     content: "No — we do not have a separate monomeric prolactin test; we offer total Prolactin only."
   },
   "egfr vs dgfr": {
-    type: "faq",
+    type: "process",
     aliases: ["egfr vs dgfr", "is egfr and dgfr same"],
     content: "No. eGFR is estimated (affected by muscle mass, diet, age) good for routine checks; dGFR is directly measured and more precise."
   },
   "folic acid test alias": {
-    type: "faq",
+    type: "process",
     aliases: ["folic acid test", "what is folic acid test"],
     content: "Book Vitamin B9 test — Vitamin B9 is Folic Acid. Do NOT confuse with RBC folate."
   },
   "anc test meaning": {
-    type: "faq",
+    type: "process",
     aliases: ["what is anc test", "anc test"],
     content: "ANC stands for Antenatal Care Test."
   },
   "lh fsh ratio includes values": {
-    type: "faq",
+    type: "process",
     aliases: ["lh fsh ratio includes values", "does lh fsh include individual values"],
     content: "Yes — LH:FSH ratio test includes individual LH and FSH values plus the calculated ratio."
   },
   "cgsh empanelled": {
-    type: "faq",
+    type: "process",
     aliases: ["are we empanelled under cghs", "cghs empanelled"],
     content: "No — Orange Health is not empanelled under CGHS."
   },
   "individual lh and fsh tests": {
-    type: "faq",
+    type: "process",
     aliases: ["individual lh fsh available", "do you have lh and fsh individual"],
     content: "Yes — we offer individual LH and FSH tests as well as the LH:FSH ratio."
   },
   "hiv 4th gen p24": {
-    type: "faq",
+    type: "process",
     aliases: ["hiv 4th gen p24", "hiv duotest p24"],
     content: "Book HIV DUO — P24 antigen is checked in the DUO but may not be reported separately."
   },
   "viral marker tests list": {
-    type: "faq",
+    type: "process",
     aliases: ["viral marker tests", "triple h test"],
     content: "Viral marker panel includes: HIV, Hepatitis B (HBsAg), Hepatitis C (HCV)."
   },
   "celiac profile tests": {
-    type: "faq",
+    type: "process",
     aliases: ["celiac profile", "celiac profile test"],
     content: "Includes Anti-tissue transglutaminase (tTG-IgA), Anti Gliadin Deamidated Peptide antibody (IgA & IgG), and Anti-endomysial Ab."
   },
@@ -511,17 +511,17 @@ export const KEYWORD_MAP = {
     content: "Book Gram Staining and Throat Swab Culture; note in OH instructions: collect throat swab for Gram staining."
   },
   "vaccination availability": {
-    type: "faq",
+    type: "process",
     aliases: ["do you provide vaccine", "vaccination available"],
     content: "No — we do not provide vaccinations."
   },
   "stool recollection_charge": {
-    type: "faq",
+    type: "process",
     aliases: ["stool recollection charge", "is stool recollection chargeable"],
     content: "No — stool recollection is not chargeable."
   },
   "walk-in labs cities": {
-    type: "faq",
+    type: "process",
     aliases: ["walk-in labs cities", "in which cities walk-in labs available"],
     content: "Walk-in labs available in NCR, HYD, BLR."
   },
@@ -531,12 +531,12 @@ export const KEYWORD_MAP = {
     content: "Follow the standard SOP: connect the customer with a regional language speaker or use translation assistance per contact center procedures."
   },
   "coupon offer billing": {
-    type: "faq",
+    type: "process",
     aliases: ["coupon offer billing", "does coupon show on invoice"],
     content: "Yes — applied coupons and discounts are visible on the final invoice showing both actual and payable amounts."
   },
   "vitamin b complex availability": {
-    type: "faq",
+    type: "process",
     aliases: ["vitamin b7 b9 available", "do you have vitamin b7 b9"],
     content: "Yes — we offer Vitamin B complex which includes B1, B2, B3, B5, B6, B7, B9, B12."
   },
@@ -801,11 +801,11 @@ export const KEYWORD_MAP = {
   },
 
 
-  // Generic package FAQs (reusable)
-  "package faqs": {
-    type: "faq",
-    aliases: ["package faq", "test package faqs", "test package faq"],
-    content: `FAQs:
+  // Generic package processs (reusable)
+  "package processs": {
+    type: "process",
+    aliases: ["package process", "test package processs", "test package process"],
+    content: `processs:
 - Should I fast for Lipid Test? Fasting is not mandatory for a lipid profile unless advised by your doctor.
 - Can I give the sample in fasting? Fasting is not mandatory, but you may give it fasting if preferred or advised.
 - What is included in Iron profile? Iron, TIBC, UIBC, Transferrin saturation.
